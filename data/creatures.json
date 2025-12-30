@@ -1,0 +1,123 @@
+[
+  {
+    "id": "Abyssal-comb-jelly",
+    "commonName": "Abyssal comb jelly",
+    "scientificName": "Beroe abyssicola",
+    "size": "7cm",
+    "depth": "surface-2,800m",
+    "range": "Arctic Ocean and northern Pacific Ocean",
+    "habitat": "Midwater",
+    "image": "/images/abyssal comb jelly.jpg",
+    "description": "Its pink color helps it camouflage by absorbing bioluminescence by prey."
+  },
+  {
+    "id": "Bloody-belly-comb-jelly",
+    "commonName": "Bloody-belly comb jelly",
+    "scientificName": "Lampocteis cruentiventer",
+    "size": "16cm",
+    "depth": "250-1,500m",
+    "range": "North Pacific Ocean",
+    "habitat": "Midwater",
+    "image": "/images/bloody-belly comb jelly.jpg",
+    "description": "Its red stomach hides the glowing prey inside (to hide from predators)."
+  },
+  {
+    "id": "Silky-Jelly",
+    "commonName": "Silky Jelly",
+    "scientificName": "Colobonema sericeum",
+    "size": "4.5cm",
+    "depth": "200-700m",
+    "range": "Pacific, Atlantic, and Indian Ocean",
+    "habitat": "Midwater",
+    "image": "/images/silky jelly.jpg",
+    "description": "It is one of the fastest swimming jellies. They are very good at escaping. They have stinging cells (nematocysts) that capture prey and make them unappetizing. The bell of the jelly can radiate blue light to startle predators. When threatened, the bell transforms shape into a tube shape and its tentacles straighten to be able to propel itself forward. They drop sticky tentacles to confuse predators as they flee."
+  },
+  {
+    "id": "Glass-Squid",
+    "commonName": "Glass Squid",
+    "scientificName": "family Cranchiidae",
+    "size": "2m",
+    "depth": "surface-2,000m",
+    "range": "Worldwide",
+    "habitat": "Midwater",
+    "image": "/images/glass squid.jpg",
+    "description": "They are covered in tiny pigment sacs called chromatophores, which when closed, makes their skin translucent. They have buoyant bodies because they have a large sac filled with ammonium (lighter than seawater). Their opaque body parts, like their eyes, glow at the same intensity as the sunlight through the water to hide them. This is possible because they have special light organs called photophores. They have large eyes and extremely good eyesight."
+  },
+  {
+    "id": "Deep-sea-crown-jelly",
+    "commonName": "Deep-sea crown jelly",
+    "scientificName": "Atolla spp.",
+    "size": "15cm",
+    "depth": "500–5,000 m",
+    "range": "Worldwide",
+    "habitat": "Midwater",
+    "image": "/images/deep-sea crown jelly.jpeg",
+    "description": "They have an elongated tentacle that can be up to six times the diameter of the jelly’s belly. It helps them catch food."
+  },
+  {
+    "id": "Redhead-larvacean",
+    "commonName": "Redhead larvacean",
+    "scientificName": "Mesochordaeus erythrocephalus",
+    "size": "6 cm",
+    "depth": "200–750 m",
+    "range": "Northeastern Pacific Ocean",
+    "habitat": "Midwater",
+    "image": "/images/redhead larvacean.jpeg",
+    "description": "They construct complex mucous houses that help them capture food. They filter marine snow for food."
+  },
+  {
+    "id": "Midwater-octopus",
+    "commonName": "Midwater octopus",
+    "scientificName": "Japetella diaphana",
+    "size": "16 cm",
+    "depth": "200–1,200 m",
+    "range": "Worldwide",
+    "habitat": "Midwater",
+    "image": "/images/midwater octopus.jpg",
+    "description": "They have a buoyant gelatinous body that helps them drift in the water. They can shift colors from crystal clear to opaque orange to hide from predators in the deep sea."
+  },
+  {
+    "id": "Balloon-worm",
+    "commonName": "Balloon worm",
+    "scientificName": "Poeobius meseres",
+    "size": "36 mm",
+    "depth": "300–2,500 m",
+    "range": "Pacific Ocean",
+    "habitat": "Midwater",
+    "image": "/images/balloon worm.jpg",
+    "description": "Its body is filled with fluid that helps it float and segmented into clusters of nerves."
+  },
+  {
+    "id": "Seven-arm-octopus",
+    "commonName": "Seven-arm octopus",
+    "scientificName": "Haliphron atlanticus",
+    "size": "4m",
+    "depth": "Surface–1,200 m",
+    "range": "Worldwide",
+    "habitat": "Midwater",
+    "image": "/images/seven-arm octopus.jpg",
+    "description": "They actually do have eight arms like other octopuses, but males have a specialized hectocotylus arm for mating that is tucked away, so it appears to only have seven."
+  },
+  {
+    "id": "Deep-sea-squid",
+    "commonName": "Deep-sea squid",
+    "scientificName": "Bathyteuthis spp.",
+    "size": "7.5 cm",
+    "depth": "600–2,000 m",
+    "range": "Worldwide",
+    "habitat": "Midwater",
+    "image": "/images/deep-sea squid.jpeg",
+    "description": "Mother squids carry their eggs in their arms, which scientists believe may increase their chance of survival."
+  },
+  {
+    "id": "Armhook-squid",
+    "commonName": "Armhook squid",
+    "scientificName": "family Gonatidae",
+    "size": "55 cm",
+    "depth": "Surface–2,000 m",
+    "range": "Worldwide",
+    "habitat": "Midwater",
+    "image": "/images/armhook squid.jpg",
+    "description": "Their two tentacles and eight arms are lined with tiny claws that help them grip onto slippery prey."
+  }
+]
